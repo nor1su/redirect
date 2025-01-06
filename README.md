@@ -3,13 +3,7 @@
 
 A simple HTTP redirect server. It redirects incoming requests to a specified destination and tracks redirect statistics.
 
-## Installation
-
-### Prerequisites
-
-- [Go](https://golang.org/dl/) (version 1.16 or later)
-
-### Build the Application
+### Build
 
 1. Clone the repository or download the source code.
 2. Navigate to the project directory.
